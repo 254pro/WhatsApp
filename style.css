@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: green;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-decoration-color: green;
+    
+}
+
+.center-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: green;
+}
+img{
+    width: 7cm;
+    height: 7cm;
+    border-radius: 50%;
+    }
+    .img-container{
+        text-align: center;
+    } 
